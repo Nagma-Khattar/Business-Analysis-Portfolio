@@ -97,4 +97,4 @@ The system now supports:
 - Sales analysis
 - Business reporting capabilities
 
-The team will continue improving estimation and sprint planning practices in future sprints.
+The team will continue improving estimation and sprint planning practices in future sprints
