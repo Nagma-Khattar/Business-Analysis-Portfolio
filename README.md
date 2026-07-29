@@ -173,21 +173,22 @@ This project demonstrates practical experience in:
 
 ---
 
-## Screenshots
+# Screenshots
 
-### Jira Timeline
+## Jira Timeline
 
-![jira-timeline](Retail-Operations-Management-System/Screenshots/jira-timeline.png)
+![Jira Timeline](Retail-Operations-Management-System/Screenshots/jira-timeline.png)
 
-### Jira Epic Customer_Management
+## Customer Management Epic
 
-![Customer_Management_epic](Retail-Operations-Management-System/Screenshots/Customer_Management-epic.png)
+![Customer Management Epic](Retail-Operations-Management-System/Screenshots/Customer_Management-epic.png)
 
-### Jira Epic Inventory_Management
+## Inventory Management Epic
 
-![Inventory_Management_epic](Retail-Operations-Management-System/Screenshots/Inventory_Management-epic.png)
+![Inventory Management Epic](Retail-Operations-Management-System/Screenshots/Inventory_Management-epic.png)
 
 ---
+
 # Future Enhancements
 
 Potential future enhancements include:
