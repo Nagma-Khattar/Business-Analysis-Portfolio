@@ -21,8 +21,8 @@ The Requirements Traceability Matrix (RTM) ensures that every business requireme
 | View inventory | View Inventory | US-003 | UC-03 | UAT-003 |
 | Update inventory | Update Inventory | US-004 | UC-04 | UAT-004 |
 | Record sales transactions | Record Sales Transaction | US-005 | UC-05 | UAT-005 |
-| View sales report | View Sales Report | US-006 | UC-06 | UAT-006 |
-| Create customer profile | Create Customer Profile | US-007 | UC-07 | UAT-007 |
+| View sales report | View Sales Report | US-006 | UC-07 | UAT-006 |
+| Create customer profile | Create Customer Profile | US-007 | UC-06 | UAT-007 |
 | Generate business reports | Generate Business Reports | US-008 | UC-08 | UAT-008 |
 | Security and access control | Role-based Access Control | US-009 | UC-09 | UAT-009 |
 

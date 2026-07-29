@@ -360,8 +360,8 @@ Administrator selects the **Manage Users and Roles** option.
 | UC-03 | US-003 View Inventory |
 | UC-04 | US-004 Update Inventory |
 | UC-05 | US-005 Record Sales Transaction |
-| UC-06 | US-006 Create Customer Profile |
-| UC-07 | US-007 View Sales Report |
+| UC-06 | US-007 Create Customer Profile |
+| UC-07 | US-006 View Sales Report |
 | UC-08 | US-008 Generate Business Reports |
 | UC-09 | US-009 Manage Users and Roles |
 
