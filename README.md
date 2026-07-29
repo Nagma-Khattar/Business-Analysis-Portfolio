@@ -113,6 +113,7 @@ Business-Analysis-Portfolio/
     ├── Functional_Requirements/
     ├── Project_Overview/
     ├── Requirements_Traceability_Matrix/
+    ├── Screenshots/
     ├── Sprint_Planning/
     ├── Sprint_Retrospectives/
     ├── Stakeholders/
