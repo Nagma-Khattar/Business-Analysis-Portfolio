@@ -181,11 +181,11 @@ This project demonstrates practical experience in:
 
 ### Jira Epic Customer_Management
 
-![Customer_Management_epic](Retail-Operations-Management-System/Screenshots/Customer_Management_epic.png)
+![Customer_Management_epic](Retail-Operations-Management-System/Screenshots/Customer_Management-epic.png)
 
 ### Jira Epic Inventory_Management
 
-![Inventory_Management_epic](Retail-Operations-Management-System/Screenshots/Inventory_Management_epic.png)
+![Inventory_Management_epic](Retail-Operations-Management-System/Screenshots/Inventory_Management-epic.png)
 
 ---
 # Future Enhancements
