@@ -122,8 +122,11 @@ Business-Analysis-Portfolio/
     ├── Use_Cases/
     ├── User_Stories/
     └── Wireframes/
+```
+
 ---
----
+
+# Tools Used
 
 # Tools Used
 
