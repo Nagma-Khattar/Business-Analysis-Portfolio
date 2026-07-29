@@ -43,6 +43,28 @@ Given that credentials are invalid:
 
 ---
 
+## US-009: Role-Based Access Control
+
+### User Story
+
+As an Administrator,
+I want to manage user roles and permissions,
+so that users can access only the features required for their responsibilities.
+
+### Priority
+
+High
+
+### Acceptance Criteria
+
+- Administrator can create user roles.
+- Administrator can assign roles to users.
+- Users can only access authorized modules.
+- Unauthorized access is denied.
+- Role changes are saved successfully.
+
+---
+
 # Epic 2: Inventory Management
 
 ## US-002: Add New Product
@@ -192,3 +214,4 @@ High
 | US-006 | Sales Reports | Medium |
 | US-007 | Customer Profile | Medium |
 | US-008 | Business Reports | High |
+| US-009 | Manage Users and Roles | High |

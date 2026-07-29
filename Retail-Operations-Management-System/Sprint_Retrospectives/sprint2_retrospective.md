@@ -13,17 +13,17 @@ Deliver customer management and reporting capabilities to maintain customer info
 
 The following user stories were completed:
 
-### ROMS-13 Create Customer Profile
+### ROMS-13 US-007 Create Customer Profile
 - Design Customer Profile Interface
 - Implement Customer Management Functionality
 - Create Customer Profile Test Cases
 
-### ROMS-12 View Sales Report
+### ROMS-12 US-006 View Sales Report
 - Design Sales Report Dashboard
 - Implement Sales Data Retrieval
 - Create Sales Report Test Cases
 
-### ROMS-14 Generate Business Reports
+### ROMS-14 US-008 Generate Business Reports
 - Design Business Analytics Dashboard
 - Implement Report Generation Functionality
 - Create Business Report Test Cases

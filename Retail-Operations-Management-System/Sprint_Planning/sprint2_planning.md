@@ -10,9 +10,9 @@ Deliver customer management and reporting capabilities to maintain customer info
 
 ## Selected User Stories
 
-- ROMS-13 Create Customer Profile
-- ROMS-12 View Sales Report
-- ROMS-14 Generate Business Reports
+- ROMS-13 US-007 Create Customer Profile
+- ROMS-12 US-006 View Sales Report
+- ROMS-14 US-008 Generate Business Reports
 
 ## Deferred Stories
 

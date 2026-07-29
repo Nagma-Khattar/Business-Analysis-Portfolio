@@ -308,6 +308,48 @@ Requested report cannot be generated.
 Business report is successfully generated.
 
 ---
+# UC-09 Manage Users and Roles
+
+## Primary Actor
+
+Administrator
+
+## Goal
+
+Manage user roles and permissions to ensure users have appropriate access to system features.
+
+## Preconditions
+
+- Administrator is authenticated.
+- Administrator has permission to manage user roles.
+
+## Trigger
+
+Administrator selects the **Manage Users and Roles** option.
+
+## Main Success Scenario
+
+1. Administrator views the list of users.
+2. Administrator selects a user.
+3. Administrator creates or selects an existing role.
+4. Administrator assigns the role to the user.
+5. System validates the changes.
+6. System updates the user's permissions.
+7. System displays a confirmation message.
+
+## Alternate Flow
+
+**Unauthorized Action**
+
+1. System denies access if the user does not have administrator privileges.
+2. System displays an authorization error message.
+
+## Postconditions
+
+- User roles and permissions are successfully updated.
+- Changes are saved and applied immediately.
+
+---
 
 # 2. Traceability Matrix
 
@@ -321,6 +363,7 @@ Business report is successfully generated.
 | UC-06 | US-006 Create Customer Profile |
 | UC-07 | US-007 View Sales Report |
 | UC-08 | US-008 Generate Business Reports |
+| UC-09 | US-009 Manage Users and Roles |
 
 ---
 

@@ -10,20 +10,20 @@ Deliver the core retail functionality required for secure user access, inventory
 
 ## Selected User Stories
 
-- ROMS-6 User Login Functionality
+- ROMS-6 US-001 User Login Functionality
 - ROMS-7 Role-Based Access Control
-- ROMS-8 Add New Product
-- ROMS-9 View Inventory
-- ROMS-10 Update Inventory
-- ROMS-11 Record Sales Transaction
+- ROMS-8 US-002 Add New Product
+- ROMS-9 US-003 View Inventory
+- ROMS-10 US-004 Update Inventory
+- ROMS-11 US-005 Record Sales Transaction
 
 ## Deferred Stories
 
 The following stories were moved to future sprints:
 
-- ROMS-12 View Sales Report
-- ROMS-13 Create Customer Profile
-- ROMS-14 Generate Business Reports
+- ROMS-12 US-006 View Sales Report
+- ROMS-13 US-007 Create Customer Profile
+- ROMS-14 US-008 Generate Business Reports
 
 ## Prioritization Reason
 
