@@ -11,6 +11,9 @@ NorthStar Retail Inc.
 ### Project Type
 Enterprise Retail Management System
 
+### Project Duration
+12 Weeks (Estimated)
+
 ### Document Type
 Project Overview Document
 
@@ -26,6 +29,9 @@ NorthStar Retail Inc. is a growing retail organization that requires a centraliz
 The organization requires an integrated Retail Operations Management System (ROMS) to streamline operations, improve data accuracy, enhance reporting capabilities, and support better business decision-making.
 
 ---
+## Business Need
+
+NorthStar Retail Inc. requires an integrated solution to replace fragmented operational processes, improve efficiency, reduce manual work, and provide accurate business information for decision-making.
 
 # 3. Business Problem
 
@@ -124,6 +130,11 @@ The project will be considered successful when:
 - Reports can be generated efficiently.
 - System users successfully complete required workflows.
 - The solution meets defined business requirements.
+- Inventory accuracy improves.
+- Sales transactions are recorded successfully.
+- Reports are generated within an acceptable response time.
+- User acceptance testing is completed successfully.
+- Stakeholders approve the delivered solution.
 
 ---
 
