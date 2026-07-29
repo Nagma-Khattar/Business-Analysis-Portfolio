@@ -11,7 +11,7 @@ Deliver the core retail functionality required for secure user access, inventory
 ## Selected User Stories
 
 - ROMS-6 US-001 User Login Functionality
-- ROMS-7 Role-Based Access Control
+- ROMS-7 US-009 Role-Based Access Control
 - ROMS-8 US-002 Add New Product
 - ROMS-9 US-003 View Inventory
 - ROMS-10 US-004 Update Inventory
