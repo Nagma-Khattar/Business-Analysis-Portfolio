@@ -46,12 +46,12 @@ Develop a centralized Retail Operations Management System that supports:
 
 ## Requirements Documentation
 
-- Business Case
-- Stakeholder Analysis
-- Business Requirements Document (BRD)
-- Functional Requirements Document (FRD)
-- User Stories & Acceptance Criteria
-- Requirements Traceability Matrix (RTM)
+- [Business Case](Retail-Operations-Management-System/Business_Case/business_case.md)
+- [Stakeholder Analysis](Retail-Operations-Management-System/Stakeholders/stakeholders_analysis.md)
+- [Business Requirements Document (BRD)](Retail-Operations-Management-System/Business_Requirements/business_requirements_document.md)
+- [Functional Requirements Document (FRD)](Retail-Operations-Management-System/Functional_Requirements/functional_requirements_document.md)
+- [User Stories & Acceptance Criteria](Retail-Operations-Management-System/User_Stories/user_stories.md)
+- [Requirements Traceability Matrix (RTM)](Retail-Operations-Management-System/Requirements_Traceability_Matrix/RTM.md)
 
 ---
 
@@ -109,10 +109,8 @@ Business-Analysis-Portfolio/
     ├── API_Documentation/
     ├── Business_Case/
     ├── Business_Requirements/
-    ├── ER_Diagrams/
     ├── Final_Report/
     ├── Functional_Requirements/
-    ├── Project_Management/
     ├── Project_Overview/
     ├── Requirements_Traceability_Matrix/
     ├── Sprint_Planning/
@@ -123,6 +121,7 @@ Business-Analysis-Portfolio/
     ├── Use_Cases/
     ├── User_Stories/
     └── Wireframes/
+---
 ---
 
 # Tools Used
