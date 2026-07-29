@@ -171,8 +171,20 @@ This project demonstrates practical experience in:
 - Git & GitHub
 
 ---
-# Screenshots (Jira)
-![sprints](image.png)
+
+## Screenshots
+
+### Jira Timeline
+
+![Jira Timeline](Screenshots/jira-timeline.png)
+
+### Jira Epic Customer_Management
+
+![Customer Management Epic](Screenshots/Customer_Management_epic.png)
+
+### Jira Epic Inventory_Management
+
+![Inventory Management Epic](Screenshots/Inventory_Management_epic.png)
 
 ---
 # Future Enhancements
