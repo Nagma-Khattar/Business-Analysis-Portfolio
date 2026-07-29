@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Document Type:** Business Requirements Document  
-**Prepared By:** Nagma Khattar  
+**Prepared By:** Nagma  
 
 ---
 

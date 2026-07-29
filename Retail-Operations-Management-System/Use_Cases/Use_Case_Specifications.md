@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Document Type:** Use Case Specifications  
-**Prepared By:** Nagma Khattar  
+**Prepared By:** Nagma   
 
 ---
 

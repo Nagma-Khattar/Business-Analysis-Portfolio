@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Document Type:** Business Case  
-**Prepared By:** Nagma Khattar  
+**Prepared By:** Nagma   
 
 ---
 

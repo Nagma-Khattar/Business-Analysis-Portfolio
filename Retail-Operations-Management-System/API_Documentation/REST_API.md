@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Document Type:** REST API Documentation  
-**Prepared By:** Nagma Khattar
+**Prepared By:** Nagma 
 
 ---
 

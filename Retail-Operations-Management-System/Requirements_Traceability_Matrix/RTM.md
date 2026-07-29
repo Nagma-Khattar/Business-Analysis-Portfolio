@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Document Type:** Requirements Traceability Matrix  
-**Prepared By:** Nagma Khattar  
+**Prepared By:** Nagma  
 
 ---
 

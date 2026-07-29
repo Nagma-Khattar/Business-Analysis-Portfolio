@@ -190,4 +190,4 @@ It represents an end-to-end Business Analysis project suitable for showcasing du
 
 ---
 
-**Author:** Nagma Khattar
+**Author:** Nagma 

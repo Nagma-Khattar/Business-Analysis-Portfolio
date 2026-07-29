@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Document Type:** Agile User Stories  
-**Prepared By:** Nagma Khattar  
+**Prepared By:** Nagma   
 
 ---
 

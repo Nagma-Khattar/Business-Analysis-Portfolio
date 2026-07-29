@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Document Type:** Test Plan  
-**Prepared By:** Nagma Khattar
+**Prepared By:** Nagma
 
 ---
 

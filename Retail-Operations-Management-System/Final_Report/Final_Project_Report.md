@@ -4,7 +4,7 @@
 
 **Client:** NorthStar Retail Inc.  
 **Project Type:** Business Analysis Portfolio Project  
-**Prepared By:** Nagma Khattar  
+**Prepared By:** Nagma  
 **Version:** 1.0
 
 ---
@@ -149,9 +149,9 @@ This portfolio project reflects industry-standard Business Analysis practices an
 Business-Analysis-Portfolio/
 │
 ├── Business_Case/
-├── Stakeholder_Analysis/
-├── BRD/
-├── FRD/
+├── Stakeholders/
+├── Business_Requirements/
+├── Functional_Requirements/
 ├── User_Stories/
 ├── Use_Cases/
 ├── UML_Diagrams/
@@ -161,7 +161,10 @@ Business-Analysis-Portfolio/
 ├── Testing/
 ├── Sprint_Planning/
 ├── Sprint_Retrospectives/
+├── ER_Diagrams/
+├── Project_Overview/
 ├── Final_Project/
+└── Project_Management/
 └── README.md
 ```
 
