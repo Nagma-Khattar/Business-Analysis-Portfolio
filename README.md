@@ -171,7 +171,10 @@ This project demonstrates practical experience in:
 - Git & GitHub
 
 ---
+# Screenshots (Jira)
+![sprints](image.png)
 
+---
 # Future Enhancements
 
 Potential future enhancements include:
