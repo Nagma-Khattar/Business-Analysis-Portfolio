@@ -161,10 +161,8 @@ Business-Analysis-Portfolio/
 ├── Testing/
 ├── Sprint_Planning/
 ├── Sprint_Retrospectives/
-├── ER_Diagrams/
 ├── Project_Overview/
 ├── Final_Project/
-└── Project_Management/
 └── README.md
 ```
 
