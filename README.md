@@ -101,24 +101,28 @@ Develop a centralized Retail Operations Management System that supports:
 
 ```text
 Business-Analysis-Portfolio/
-
-├── API_Documentation/
-├── BRD/
-├── Business_Case/
-├── Final_Project/
-├── FRD/
-├── Requirements_Traceability_Matrix/
-├── Sprint_Planning/
-├── Sprint_Retrospectives/
-├── Stakeholder_Analysis/
-├── Testing/
-├── UML_Diagrams/
-├── Use_Cases/
-├── User_Stories/
-├── Wireframes/
-└── README.md
-```
-
+│
+├── README.md
+│
+└── Retail-Operations-Management-System/
+    │
+    ├── API_Documentation/
+    ├── Business_Case/
+    ├── Business_Requirements/
+    ├── ER_Diagrams/
+    ├── Final_Report/
+    ├── Functional_Requirements/
+    ├── Project_Management/
+    ├── Project_Overview/
+    ├── Requirements_Traceability_Matrix/
+    ├── Sprint_Planning/
+    ├── Sprint_Retrospectives/
+    ├── Stakeholders/
+    ├── Testing/
+    ├── UML_Diagrams/
+    ├── Use_Cases/
+    ├── User_Stories/
+    └── Wireframes/
 ---
 
 # Tools Used
